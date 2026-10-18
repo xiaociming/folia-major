@@ -212,6 +212,7 @@
   "dependencies": {
     "@google/genai": "^2.24.0",
     "@neteasecloudmusicapienhanced/api": "4.41.1",
+    "@vercel/analytics": "^1.4.2",
     "@xhayper/discord-rpc": "^1.5.1",
     "@yakult-green-tea/qq-music-api": "3.3.1",
     "axios": "^1.20.0",
